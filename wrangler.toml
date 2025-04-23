@@ -3,4 +3,4 @@ account_id = "wrangler.toml"
 workers_dev = true
 compatibility_date = "2025-04-23"
 type = "javascript"
-main = "src/index.js"
+main = "index.js"
