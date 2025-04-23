@@ -1,4 +1,4 @@
-name = "my-worker1"
+name = "downtime-worker"
 account_id = "09b081b6507e886f7790a00dfeca8a3f"
 workers_dev = true
 compatibility_date = "2025-04-23"
