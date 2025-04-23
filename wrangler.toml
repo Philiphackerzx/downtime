@@ -1,6 +1,6 @@
-name = "my-worker1"
-type = "javascript"
-
-account_id = "09b081b6507e886f7790a00dfeca8a3f"
+name = "my-worker-name"
+account_id = "wrangler.toml"
 workers_dev = true
-compatibility_date = "2023-12-01"
+compatibility_date = "2025-04-23"
+type = "javascript"
+main = "src/index.js"
